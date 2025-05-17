@@ -1,3 +1,9 @@
+# CTH的赛博书架
+
+包含小说，合唱谱，图片和网站（施工中...）
+
+（以下是初始内容，用于参考markdown格式）
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
